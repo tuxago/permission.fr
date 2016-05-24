@@ -1,9 +1,9 @@
 # Permission: The Birth Story
-##(or how this blog came to be)
+## (or how this blog came to be)
 
 Today, Monday, is the first day of an experiment that was born last Friday during a conversation with my friend, Tree. 
 
-####No Time for Friendship
+#### No Time for Friendship
 
 I had told her that I was feeling unsure about how much she wanted to be friends with me, because most times we saw each other, I made the trip to her house with the baby and paraphernalia in tow - kind of a shlep, but worth it, I felt, to see someone I really liked. 
 
@@ -11,7 +11,7 @@ The problem was, she didn’t make much of an effort to hang out with me. Like, 
 
 Tree thought for a while, and said, “My husband and I are stretched so thin right now. I just don’t have time or energy to make plans with you. I’m so sorry.” Turns out, she had made a commitment to a religious organization that was taking a lot of her time. You could tell - and she admitted it - that she was not very excited about it. It was an obligation that she should have wanted to do, but didn’t. 
 
-####Time Flies
+#### Time Flies
 
 Which begs the question: Where does our time go? I had done a time-management exercise that very week to find out.  Here are the results:
 
@@ -31,7 +31,7 @@ Baby
 
 Yes, you saw that right. The only thing I do that I want to do is spend time with my baby. The rest is obligation.
 
-####Obligation
+#### Obligation
 
 Which got me thinking about obligation. (booo!) Tree said, that she should take the initiative and make plans with me if not doing it was going to make me sad. “No!” I said. “Please don’t do that. How would you feel if someone hung out with you because they should, not because they wanted to?”
 
@@ -41,7 +41,7 @@ I said, how about, whenever you really want to, you call me up and make plans.  
 
 Tree was like, “Who ARE? you?”! She was wowed that now, she had no pressure to ‘perform’ for me as a friend. I think she liked that. 
 
-####A Mistake’s An Opportunity
+#### A Mistake’s An Opportunity
 
 Being a parent has made me more forgiving with myself, and more forgiving with others. I don’t want my daughter to think she can’t ever make mistakes. Life and learning are made with mistakes, and if we are to live and learn, we have to be OK with them. Better to love yourself (and others) than to be perfect.
 
