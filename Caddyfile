@@ -1,0 +1,10 @@
+0.0.0.0:80 {
+git github.com/tuxago/permission.fr.git ../src/permission.fr {
+    then hugo --destination=/srv/public
+    hook /_webhook supersecrethoho
+}
+
+gzip
+log ../access.log
+root public
+}
